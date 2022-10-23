@@ -275,10 +275,10 @@ Navigate into the root of the application and type `node server.js` to start t
 
 ```
 {
-	"name": "Sam",
-	"phone": "+01737084478",
-	"email": "sam@gmail.com",
-	"city": "Dhaka"
+    "name": "Sam",
+    "phone": "+01737084478",
+    "email": "sam@gmail.com",
+    "city": "Dhaka"
 }
 ```
 
