@@ -131,19 +131,19 @@ Navigate into the root of the application and type `node server.js` to start t
 
 ```
 [
-	{
-		"name": "Kona",
-		"phone": "+9876703002685",
-		"email": "kona@gmail.com",
-		"city": "Bogra"
-	},
+   {
+	"name": "Kona",
+	"phone": "+9876703002685",
+	"email": "kona@gmail.com",
+	"city": "Bogra"
+   },
 	
-	{
-		"name": "Shanto",
-		"phone": "+11129801776324",
-		"email": "shanto@gmail.com",
-		"city": "Bogra"
-	}
+   {
+	"name": "Shanto",
+	"phone": "+11129801776324",
+	"email": "shanto@gmail.com",
+	"city": "Bogra"
+   }
 ]
 ```
 
@@ -286,14 +286,15 @@ Navigate into the root of the application and type `node server.js` to start t
 
 ```
 {
-	"success": true,
-	"message": "Contact updated successfully",
-	"data": {
-		"id": "635568bd5a273d1e3f36bc58",
-		"name": "Sam",
-		"phone": "+01737084478",
-		"email": "sam@gmail.com",
-		"city": "Dhaka"
+   "success": true,
+   "message": "Contact updated successfully",
+   "data": {
+              "id": "635568bd5a273d1e3f36bc58",
+	      "name": "Sam",
+	      "phone": "+01737084478",
+	      "email": "sam@gmail.com",
+	      "city": "Dhaka"
+	   }
 }
 
 ```
