@@ -180,7 +180,7 @@ Navigate into the root of the application and type `node server.js` to start t
 
 ## Fetch details of single contact
 
-**URL** : `/api/contacts/:contactId
+**URL** : `/api/contacts/:contactId`
 
 **Method** : `GET`
 
@@ -204,7 +204,7 @@ Navigate into the root of the application and type `node server.js` to start t
 
 ## Fetch phase matching results
 
-**URL** : `/api/contacts/search?key=value
+**URL** : `/api/contacts/search?key=value`
 
 **Method** : `GET`
 
@@ -301,7 +301,7 @@ Navigate into the root of the application and type `node server.js` to start t
 
 ## Delete the given contact
 
-**URL** : `/api/contacts/:contactId
+**URL** : `/api/contacts/:contactId`
 
 **Method** : `DEL`
 
