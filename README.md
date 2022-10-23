@@ -103,17 +103,17 @@ Navigate into the root of the application and type `node server.js` to start t
 ###### Response:
 
 ```
-    {
-	    "success": true,
-	    "message": "Contact created successfully",
-	    "data": {
-	        "id": "635568bd5a273d1e3f36bc58",
-	        "name": "Sam",
-	        "phone": "+01737084478",
-	        "email": "sam@gmail.com",
-	        "city": "Dhaka"
-	   }
-    }
+{
+    "success": true,
+    "message": "Contact created successfully",
+    "data": {
+	"id": "635568bd5a273d1e3f36bc58",
+	"name": "Sam",
+	"phone": "+01737084478",
+	"email": "sam@gmail.com",
+	"city": "Dhaka"
+   }
+}
 
 ```
 
