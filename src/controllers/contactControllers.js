@@ -192,7 +192,6 @@ module.exports.removeSingleContact = async (req, res) => {
 module.exports.searchContact = async (req, res) => {
     try {
         const key = req.query.key.replace("+", " ");
-        // console.log(key)
         const results = await fetchContactsByKeyword(key, req.user.id);
         res.send(results);
     } catch(error) {
